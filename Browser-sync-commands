@@ -1,0 +1,10 @@
+First:
+	make a package.json file in your main directory.
+	
+Second:
+	open terminal from main project and type:
+	npm install -D browser-sync
+	
+Thrid:
+	start the browser-sync server:
+	npx browser-sync start --server       
