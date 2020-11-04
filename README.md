@@ -40,3 +40,9 @@ In this text **this part is bold** and __this part also bold__.
 
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
