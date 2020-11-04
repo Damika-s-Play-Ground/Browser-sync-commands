@@ -19,3 +19,8 @@ In this text *this part is italic* and _this part also italic_.
 
 In this text **this part is bold** and __this part also bold__.
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
