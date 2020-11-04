@@ -37,4 +37,3 @@ In this text **this part is bold** and __this part also bold__.
    1. Item 3b
 
 ![GitHub Logo](/images/man.jpg)
-Format: ![Man](/images/man.jpg)
