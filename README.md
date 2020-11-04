@@ -7,3 +7,15 @@ headers
 #### I was an active team member of Mahinda College Chess team.
 ##### And also played Table Tennis, Basketball, Baseball. 
 ###### I was a team member in the school orchestra team and played violin with 3 years membership.
+
+*This is an italic text*
+_This is also an italic text_
+
+**This is a bold text**
+__This is also bold text__
+
+In this text *this part is italic* and _this part also italic_.
+
+
+In this text **this part is bold** and __this part also bold__.
+
