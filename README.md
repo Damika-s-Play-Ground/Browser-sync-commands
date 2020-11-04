@@ -1,4 +1,4 @@
-Headers
+
 
 # I was an active team member of Mahinda College Chess team.
 ## And also played Table Tennis, Basketball, Baseball. 
