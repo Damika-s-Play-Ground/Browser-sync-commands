@@ -37,3 +37,6 @@ In this text **this part is bold** and __this part also bold__.
    1. Item 3b
 
 ![GitHub Logo](/images/man.jpg)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
