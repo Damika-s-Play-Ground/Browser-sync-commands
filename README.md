@@ -1,13 +1,15 @@
 
 headers
 
-# I was an active team member of Mahinda College Chess team.
-## And also played Table Tennis, Basketball, Baseball. 
-### I was a team member in the school orchestra team and played violin with 3 years membership.
+# I was an active team member of Mahinda College Chess team.:simple_smile:
+## And also played Table Tennis, Basketball, Baseball.:smile: 
+### I was a team member in the school orchestra team and played violin with 3 years membership.:kissing_closed_eyes:
 #### I was an active team member of Mahinda College Chess team.
+:stuck_out_tongue_closed_eyes:
 ##### And also played Table Tennis, Basketball, Baseball. 
+:blush:
 ###### I was a team member in the school orchestra team and played violin with 3 years membership.
-
+:raised_hands:
 *This is an italic text*
 _This is also an italic text_
 
