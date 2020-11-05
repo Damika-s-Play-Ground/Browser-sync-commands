@@ -1,7 +1,7 @@
 
 headers
 
-# I was an active team member of Mahinda College Chess team.:simple_smile:
+# I was an active team member of Mahinda College Chess team. :simple_smile:
 ## And also played Table Tennis, Basketball, Baseball.:smile: 
 ### I was a team member in the school orchestra team and played violin with 3 years membership.:kissing_closed_eyes:
 #### I was an active team member of Mahinda College Chess team.
